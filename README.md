@@ -23,4 +23,4 @@ Escribe aqui la funcionalidad del proyecto descrito en pasos.
 ##### - Descripcion:
 Aqui va la Descripcion
 
-![Diagrama de flujo del problema SCOREKEEPER]()
+![Diagrama de flujo del problema SCOREKEEPER](assets/img/Diagrama en blanco.png)
